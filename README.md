@@ -1,2 +1,2 @@
-# Cualquiera
-Esto es un repositorio de prueba donde ni yo sé que voy a agregar.
+# Que Tortas
+This repository is a proyect of mine, just to test my knowledge with Spring Boot and Maven
